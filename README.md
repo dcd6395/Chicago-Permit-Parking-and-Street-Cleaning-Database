@@ -1,12 +1,15 @@
 # Chicago_Parking_Project
 ETL Project
 
-* The sources of data that you will extract from.
+
 # Data Extraction
+The data was extracted as a CSV from the City of Chicago, https://data.cityofchicago.org/, we extraced Parking Permit Zones and Street Sweeping 
 
-## The data was extracted as a CSV from the City of Chicago, https://data.cityofchicago.org/, 
-* The type of transformation needed for this data (cleaning, joining, filtering, aggregating, etc).
+#Transform 
+The type of transform needed for this data was cleaning, dropping columns, and renaming the columns in pandas and joining and filtering in sql. 
 
-* The type of final production database to load the data into (relational or non-relational).
+# Final Production Database 
+The final production  database to load the data into was a realtiononable database 
+
 
 * The final tables or collections that will be used in the production database.
