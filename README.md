@@ -1,5 +1,5 @@
 # Chicago Parking Project
-ETL Project
+ETL Project, the goal of this database is to look at the frequency of street cleaning will happen based on permit parking in your respective area of the city
 
 
 # Data Extraction
