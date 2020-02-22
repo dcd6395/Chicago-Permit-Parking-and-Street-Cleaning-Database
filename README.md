@@ -11,6 +11,7 @@ The type of transform needed for this data was cleaning by dropping NAN values, 
 # Final Production Database 
 The final production database to load the data into was a relational database 
 
+![Database map](https://github.com/strburrj/Chicago_Parking_Project/blob/master/Resources/Screen%20Shot%202020-02-22%20at%2012.15.49%20PM.png)
 # Final Table 
 The final table that will be used in the production are the Parking Permit Zones and Street Sweeping the combine table is available to analyze
 
