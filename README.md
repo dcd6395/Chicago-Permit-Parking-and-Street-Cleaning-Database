@@ -12,5 +12,5 @@ The type of transform needed for this data was cleaning, dropping columns, and r
 The final production database to load the data into was a relational database 
 
 # Final Table 
-The final table that will be used in the production are the Parking Permit Zones and Street Sweeping. The combine table is available for analyzation
+The final table that will be used in the production are the Parking Permit Zones and Street Sweeping the combine table is available to analyze
 
