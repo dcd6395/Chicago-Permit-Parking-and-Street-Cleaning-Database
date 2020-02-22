@@ -1,4 +1,4 @@
-# Chicago_Parking_Project
+# Chicago Parking Project
 ETL Project
 
 
